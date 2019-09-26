@@ -1,15 +1,15 @@
 ## UDACITY CRISP-DM PROJECT
 Udacity Data Scientist Nanodegree - Introduction to Data Science Project
+This project is about:
+*Coming up with three questions you are interested in answering.
 
-*Come up with three questions you are interested in answering.
+*Extracting the necessary data to answer these questions.
 
-*Extract the necessary data to answer these questions.
+*Performing necessary cleaning, analysis, and modeling.
 
-*Perform necessary cleaning, analysis, and modeling.
+*Evaluating results.
 
-*Evaluate your results.
-
-*Share your insights with stakeholders.
+*Sharing insights with stakeholders.
 
 ## Getting Started
 
@@ -17,11 +17,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+Software Requirements
+- Python 3.7.3
+- textblob (https://pypi.org/project/textblob/)
+- folium (https://pypi.org/project/folium/)
+- branca (https://pypi.org/project/branca/)
+- geopandas (https://pypi.org/project/geopandas/)
 
 ### Installing
 
@@ -41,40 +42,14 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+```
+git clone
+jupyter lab
 
-## Built With
-
-*
-
-## Contributing
-
-
-
-## Versioning
-
+```
 
 
 ## Authors
