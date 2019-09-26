@@ -12,7 +12,7 @@ This project is about:
 
 *Sharing insights with stakeholders.
 
-I have used Seattle AirBnB dataset to answer the following questions and find predictive variables for price.
+I have used Seattle AirBnB dataset(https://www.kaggle.com/airbnb/seattle) to answer the following questions and find predictive variables for price.
   - What are the peak days in Seattle?
   - Which areas are more pricy than others?
   - What are the major factors that determine prices?
@@ -50,16 +50,6 @@ Instructions below will help you setup your local machine to run the copy of thi
   - map_visualisations.ipynb : This notebook includes map visualisations of some analysis on listings data.
   - main.ipynb :  This notebook makes use of the findings from the explore_raw.ipynb to cleanse and process the data. It is sufficient to run this notebook standalone to cleanse the data, generate predictions and evaluate the results.
   
-
-#### Dataset
-
-Since the dataset is large, the zipped format is uploaded.
-You have to unzip the data to be able to run the scripts.
-```
-cd <directory you've run git clone>/udacity_crispdm/data
-unzip seattle.zip
-```
-Source : https://www.kaggle.com/airbnb/seattle
 
 
 ## Authors
