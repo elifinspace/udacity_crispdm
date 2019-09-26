@@ -18,6 +18,7 @@ I have used Seattle AirBnB dataset to answer the following questions and find pr
   - What are the major factors that determine prices?
 
 Medium Blog Post: https://medium.com/@elifsurmelif/seattle-airbnb-market-price-analytics-97196545da3a
+If you have difficulty in displaying .ipynb files please go to  https://nbviewer.jupyter.org/ and paste the link that you're trying to display the notebook such as https://github.com/elifinspace/udacity_crispdm/blob/master/explore_raw.ipynb
 
 ## Getting Started
 
