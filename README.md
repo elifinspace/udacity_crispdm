@@ -30,13 +30,8 @@ Instructions below will help you setup your local machine to run the copy of thi
 
   - Anaconda 3
   - Python 3.7.3
-
-  explore_raw.ipynb:
-
+  
   - textblob (https://pypi.org/project/textblob/)
-
-  geopandas_listings.ipynb:
-
   - folium (https://pypi.org/project/folium/)
   - branca (https://pypi.org/project/branca/)
   - geopandas (https://pypi.org/project/geopandas/)
@@ -52,8 +47,8 @@ Instructions below will help you setup your local machine to run the copy of thi
    
     ```
   - explore_raw.ipynb: This notebook includes the preliminary work, explorations.
-  - geopandas_listings.ipynb : This notebook includes map visualisations of some analysis on listings data.
-  - listings_modular.ipynb :  This notebook makes use of the findings from the explore_raw.ipynb to cleanse and process the data. It is sufficient to run this notebook standalone to cleanse the data, generate predictions and evaluate the results.
+  - map_visualisations.ipynb : This notebook includes map visualisations of some analysis on listings data.
+  - main.ipynb :  This notebook makes use of the findings from the explore_raw.ipynb to cleanse and process the data. It is sufficient to run this notebook standalone to cleanse the data, generate predictions and evaluate the results.
   
 
 #### Dataset
